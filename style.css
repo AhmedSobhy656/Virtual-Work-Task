@@ -1,0 +1,38 @@
+
+
+.container{
+  margin-left: 40%;
+  margin-top: 10%;
+}
+
+.btn{
+    padding: 8px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: solid rgb(51, 51, 193) 2px;
+    border-radius: 10px;
+    background-color: white;
+    cursor: pointer;
+    font-size: 14px;
+}
+.btn:hover {
+    background-color: rgb(51, 51, 193)
+  }
+
+.input-1{
+ margin-left: 30px;
+}  
+.input-2{
+ margin-left: 10px;
+}  
+.input-3{
+ margin-left: 42px;
+
+}  
+.input-4{
+ margin-left: 33px;
+}  
+
+.sign-money::before {
+    content:"$";
+}
